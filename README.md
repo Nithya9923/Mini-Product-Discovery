@@ -6,9 +6,9 @@ Bella Oter Software Test
   
 ## What I’d Improve With More Time
 
-  -Add smooth transitions for better UX
-  -Make the layout more responsive across all screen sizes
-  -Include more elegant SVG icons to match the Bella Otéro vibe
+  * Add smooth transitions for better UX.
+  * Make the layout more responsive across all screen sizes.
+  * Include more elegant SVG icons to match the Bella Otéro vibe.
 
 ## How to Run the Project
 
