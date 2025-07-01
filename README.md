@@ -2,7 +2,7 @@
 Bella Oter Software Test
 
 ## Time Spent 
-   -3 Hours
+   3 and 1/2 Hours
   
 ## What I’d Improve With More Time
 
