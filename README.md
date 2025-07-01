@@ -1,5 +1,5 @@
 # Mini-Product-Discovery
-Bella Oter Software Test
+Bella Oter Software Engineering Test
 
 ## Time Spent 
    3 and 1/2 Hours
