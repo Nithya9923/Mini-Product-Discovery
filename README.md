@@ -14,6 +14,6 @@ Bella Oter Software Test
 
    Clone the repository
     git clone https://github.com/Nithya9923/Mini-Product-Discovery.git
-
+    To run in vs code, command - npm run dev
   
   
