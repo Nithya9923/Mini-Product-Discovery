@@ -12,8 +12,9 @@ Bella Oter Software Engineering Test
 
 ## How to Run the Project
 
-   Clone the repository
-    git clone https://github.com/Nithya9923/Mini-Product-Discovery.git
-    To run in vs code, command - npm run dev
+   1.Clone the repository
+        * git clone https://github.com/Nithya9923/Mini-Product-Discovery.git
+   2.Run the project in vs code
+        *command - npm run dev
   
   
