@@ -13,7 +13,7 @@ Bella Oter Software Test
 ## How to Run the Project
 
    Clone the repository
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Nithya9923/Mini-Product-Discovery.git
 
   
   
